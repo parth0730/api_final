@@ -8,7 +8,7 @@ const c1 = new Pool({
     user: "postgres",
     host: "localhost",
     database: "api",
-    password: "Parth*@*0730*@*",
+    password: "abcd",
     port: 5432,
 });
 module.exports = c1;
